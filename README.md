@@ -1,4 +1,4 @@
-# AI Transformers and Forecasting
+# Deep Learning AI Transformers and Forecasting
 A repository for the Foresight Article - _Deep Learning and Transformer Forecasting in a Retail Environment – Is it worth it_?
 
 The repository contains files to replicate the outcomes presented in the article. The code is in Python Jupyter Notebooks. 
