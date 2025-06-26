@@ -5,7 +5,7 @@ The repository contains files to replicate the outcomes presented in the article
 It was developed using the DARTS automated forecasting package which includes traditional simplistic forecasting models, 
 machine learning models, deep learning models, and transformer models. The code utilizes Pytorch AI capabilities. It
 was run in a MAC silicon (i.e., M-series chips) environment, which requires sepecific setup to utilize the 
-Graphical Processing Units (GPUs) in that environment. The code has been tested in a Windows environment and runs effectively.
+Graphical Processing Units (GPUs). The code has been tested in a Windows environment and runs effectively using the CPU only.
 
 The Python version utilized was 3.11. A requirements.txt file includes all of the package versions included in the
 envrionment. 
